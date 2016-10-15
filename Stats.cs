@@ -8,7 +8,7 @@ namespace wServer.realm
     public enum CurrencyType
     {
         Gold = 0,
-        Fame = 1,
+        Fame = 2,
         GuildFame = 2
     }
 
