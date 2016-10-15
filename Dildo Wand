@@ -1,4 +1,4 @@
-    <Object ext="true" id="Bruh">
+    <Object ext="true" id= Dildo Wand"">
       <Class>Equipment</Class>
       <Item/>
       <Texture>
@@ -13,7 +13,7 @@
          <ObjectId>dildo shot</ObjectId>
          <Speed>180</Speed>
          <MinDamage>10000</MinDamage>
-         <MaxDamage>100000</MaxDamage>
+         <MaxDamage>1000</MaxDamage>
          <LifetimeMS>666</LifetimeMS>
          <Amplitude>0.5</Amplitude>
          <Frequency>2</Frequency>
@@ -33,6 +33,6 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>5000000</feedPower>
+      <feedPower>50000000000</feedPower>
       <DisplayId>dildo</DisplayId>
    </Object>
