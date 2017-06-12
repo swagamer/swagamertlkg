@@ -12,8 +12,8 @@
       <Projectile>
          <ObjectId>dildo shot</ObjectId>
          <Speed>180</Speed>
-         <MinDamage>10000</MinDamage>
-         <MaxDamage>1000</MaxDamage>
+         <MinDamage>1000</MinDamage>
+         <MaxDamage>10000</MaxDamage>
          <LifetimeMS>666</LifetimeMS>
          <Amplitude>0.5</Amplitude>
          <Frequency>2</Frequency>
